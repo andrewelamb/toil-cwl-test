@@ -13,8 +13,7 @@ requirements:
 
 hints:
   DockerRequirement:
-    #dockerPull: quay.io/cri-iatlas/toil-cwl-test
-    dockerPull: toil-cwl-test
+    dockerPull: quay.io/cri-iatlas/toil-cwl-test
 
 inputs:
 
