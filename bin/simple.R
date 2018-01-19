@@ -1,0 +1,1 @@
+writeLines('R_test', 'out.txt')
