@@ -8,9 +8,6 @@ baseCommand: [Rscript, /usr/local/bin/simple.R]
 
 doc: "run"
 
-requirements:
-- class: InlineJavascriptRequirement
-
 hints:
   DockerRequirement:
     dockerPull: quay.io/cri-iatlas/toil-cwl-test
